@@ -15,8 +15,6 @@ Este projeto utiliza a placa **BitDogLab** e os seguintes componentes:
 2. O **Botão A** incrementa o número exibido na matriz de LEDs a cada pressionamento.
 3. O **Botão B** decrementa o número exibido na matriz de LEDs a cada pressionamento.
 4. Os **LEDs WS2812** devem exibir números de **0 a 9** com efeitos visuais.
-   - **Formatação fixa:** Cada número será exibido na matriz em um formato predefinido, semelhante a caracteres digitais.
-   - Alternativamente, um estilo criativo pode ser utilizado, desde que o número seja claramente identificável.
 
 ## Requisitos do Projeto
 ### 1. Uso de Interrupções
