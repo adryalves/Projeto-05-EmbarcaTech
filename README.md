@@ -18,16 +18,14 @@ Este projeto utiliza a placa **BitDogLab** e os seguintes componentes:
 
 ## Requisitos do Projeto
 ### 1. Uso de Interrupções
-- As funcionalidades dos botões devem ser implementadas utilizando **rotinas de interrupção (IRQ)**.
+- As funcionalidades dos botões  são implementadas utilizando **rotinas de interrupção (IRQ)**.
 
 ### 2. Debouncing via Software
-- O bouncing dos botões deve ser tratado via software para garantir leituras corretas.
+- O bouncing dos botões são tratados via software para garantir leituras corretas.
 
 ### 3. Controle de LEDs
-- O projeto deve demonstrar o uso de **LEDs comuns** e **LEDs WS2812**, explorando diferentes formas de controle.
+- O projeto demonstra o uso de **LEDs comuns** e **LEDs WS2812**, explorando diferentes formas de controle.
 
-### 4. Organização do Código
-- O código deve ser modular, organizado e seguir boas práticas de desenvolvimento.
 
 ## Como Executar
 1. Conecte os componentes conforme a descrição do projeto.
