@@ -37,8 +37,8 @@ Este projeto utiliza a placa **BitDogLab** e os seguintes componentes:
 
 1.Compile o código
 2. Execute o código a depender da infraestrutura.
-  2.1 Se for no simulador, entre no diagram.json e aperte o botão de executar
-  2.3 Se for na placa, Conecte a placa **BitDogLab** ao notebook pelo USB, faça o Bootsel e
+ - 2.1 Se for no simulador, entre no diagram.json e aperte o botão de executar
+ - 2.3 Se for na placa, Conecte a placa **BitDogLab** ao notebook pelo USB, faça o Bootsel e
   aperte o run
 3. Utilize os botões para interagir com os números exibidos na matriz de LEDs.
 
