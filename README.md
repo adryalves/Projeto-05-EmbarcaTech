@@ -1,6 +1,7 @@
 # Projeto-05-EmbarcaTech: Controle de LEDs e Botões com BitDogLab
 
 ## Link do vídeo de descrição do projeto
+https://drive.google.com/file/d/1zBKsFCgehge7lWn2FylcSBcEa2ifkYd7/view?usp=sharing
 
 ## Descrição do Projeto
 
@@ -34,8 +35,11 @@ Este projeto utiliza a placa **BitDogLab** e os seguintes componentes:
 
 ## Como Executar
 
-1. Conecte os componentes conforme a descrição do projeto.
-2. Compile e carregue o código na placa **BitDogLab**.
+1.Compile o código <br>
+2. Execute o código a depender da infraestrutura.
+ - 2.1 Se for no simulador, entre no diagram.json e aperte o botão de executar
+ - 2.3 Se for na placa, Conecte a placa **BitDogLab** ao notebook pelo USB, faça o Bootsel e
+  aperte o run
 3. Utilize os botões para interagir com os números exibidos na matriz de LEDs.
 
 ## Tecnologias Utilizadas
