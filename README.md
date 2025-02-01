@@ -1,6 +1,4 @@
-# Projeto-05-EmbarcaTech
-
-# Projeto: Controle de LEDs e Botões com BitDogLab
+# Projeto-05-EmbarcaTech: Controle de LEDs e Botões com BitDogLab
 
 ## Link do vídeo de descrição do projeto
 
