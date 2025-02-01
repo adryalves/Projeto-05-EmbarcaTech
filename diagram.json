@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "author": "Adryellen Alves de Souza",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-pi-pico-w",
+      "id": "pico",
+      "top": -80.05,
+      "left": 953.95,
+      "attrs": { "builder": "pico-sdk" }
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb1",
+      "top": 32.5,
+      "left": 872.8,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb2",
+      "top": 32.5,
+      "left": 833.5,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb3",
+      "top": 32.5,
+      "left": 795.1,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb4",
+      "top": 32.5,
+      "left": 757.6,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb5",
+      "top": 32.5,
+      "left": 718.3,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb6",
+      "top": 3.7,
+      "left": 718.3,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb7",
+      "top": 3.7,
+      "left": 756.7,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb8",
+      "top": 3.7,
+      "left": 795.1,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb9",
+      "top": 3.7,
+      "left": 833.5,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb10",
+      "top": 3.7,
+      "left": 871.9,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb11",
+      "top": -25.1,
+      "left": 871.9,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb12",
+      "top": -25.1,
+      "left": 833.5,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb13",
+      "top": -25.1,
+      "left": 795.1,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb14",
+      "top": -25.1,
+      "left": 756.7,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb15",
+      "top": -25.1,
+      "left": 718.3,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb16",
+      "top": -53.9,
+      "left": 719.2,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb17",
+      "top": -53.9,
+      "left": 756.7,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb18",
+      "top": -53.9,
+      "left": 795.1,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb19",
+      "top": -53.9,
+      "left": 833.5,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb20",
+      "top": -53.9,
+      "left": 871.9,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb21",
+      "top": -82.7,
+      "left": 871.9,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb22",
+      "top": -82.7,
+      "left": 833.5,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb23",
+      "top": -82.7,
+      "left": 796,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb24",
+      "top": -82.7,
+      "left": 756.7,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-neopixel",
+      "id": "rgb25",
+      "top": -82.7,
+      "left": 718.3,
+      "rotate": 180,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": -99.4,
+      "left": 1152,
+      "attrs": { "color": "green" }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn2",
+      "top": 6.2,
+      "left": 1142.4,
+      "attrs": { "color": "green" }
+    },
+    {
+      "type": "wokwi-rgb-led",
+      "id": "rgb26",
+      "top": 119.2,
+      "left": 692.3,
+      "attrs": { "common": "cathode" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 157.55,
+      "left": 825.6,
+      "attrs": { "value": "1000" }
+    }
+  ],
+  "connections": [
+    [ "pico:GP0", "$serialMonitor:RX", "", [] ],
+    [ "pico:GP1", "$serialMonitor:TX", "", [] ],
+    [ "rgb1:DOUT", "rgb2:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb3:DOUT", "rgb4:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb2:DOUT", "rgb3:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb4:DOUT", "rgb5:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb6:DOUT", "rgb7:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb8:DOUT", "rgb9:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb7:DOUT", "rgb8:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb9:DOUT", "rgb10:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb6:DIN", "rgb5:DOUT", "green", [ "h1.7", "v9.6", "h181.5", "v8.7" ] ],
+    [ "rgb11:DOUT", "rgb12:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb13:DOUT", "rgb14:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb12:DOUT", "rgb13:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb14:DOUT", "rgb15:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb16:DOUT", "rgb17:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb18:DOUT", "rgb19:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb17:DOUT", "rgb18:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb19:DOUT", "rgb20:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb21:DOUT", "rgb22:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb23:DOUT", "rgb24:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb22:DOUT", "rgb23:DIN", "green", [ "h9.6", "v10.5" ] ],
+    [ "rgb10:DOUT", "rgb11:DIN", "green", [ "h9.6", "v-8.7", "h0.9", "v-9.6" ] ],
+    [ "rgb15:DOUT", "rgb16:DIN", "green", [ "h9.6", "v-8.7", "h-27.9", "v-9.6" ] ],
+    [ "rgb20:DOUT", "rgb21:DIN", "green", [ "h9.6", "v-8.7", "h0.9", "v-9.6" ] ],
+    [ "rgb21:VSS", "rgb22:VSS", "red", [ "v10.5", "h-38.4" ] ],
+    [ "rgb23:VSS", "rgb22:VSS", "red", [ "v10.5", "h37.5" ] ],
+    [ "rgb24:VSS", "rgb23:VSS", "red", [ "v10.5", "h40.1", "v-10.5" ] ],
+    [ "rgb16:VSS", "rgb17:VSS", "red", [ "v20.1", "h37.5" ] ],
+    [ "rgb17:VSS", "rgb18:VSS", "red", [ "v20.1", "h38.4" ] ],
+    [ "rgb18:VSS", "rgb19:VSS", "red", [ "v20.1", "h38.4" ] ],
+    [ "rgb19:VSS", "rgb20:VSS", "red", [ "v20.1", "h38.4" ] ],
+    [ "rgb16:VSS", "rgb11:VSS", "red", [ "v20.1", "h152.7" ] ],
+    [ "rgb11:VSS", "rgb12:VSS", "red", [ "v-8.7", "h39.2" ] ],
+    [ "rgb12:VSS", "rgb13:VSS", "red", [ "v-8.7", "h39.2" ] ],
+    [ "rgb13:VSS", "rgb14:VSS", "red", [ "v-8.7", "h39.2" ] ],
+    [ "rgb14:VSS", "rgb15:VSS", "red", [ "v-8.7", "h39.2" ] ],
+    [ "rgb11:VSS", "rgb6:VSS", "red", [ "v0.9", "h-8.8", "v9.6", "h-144.8" ] ],
+    [ "rgb6:VSS", "rgb7:VSS", "red", [ "v10.5", "h38.4" ] ],
+    [ "rgb7:VSS", "rgb8:VSS", "red", [ "v10.5", "h38.4" ] ],
+    [ "rgb8:VSS", "rgb9:VSS", "red", [ "v10.5", "h38.4" ] ],
+    [ "rgb9:VSS", "rgb10:VSS", "red", [ "v10.5", "h38.4" ] ],
+    [ "rgb6:VSS", "rgb1:VSS", "red", [ "v-18.3", "h184.1", "v47.1" ] ],
+    [ "rgb1:VSS", "rgb2:VSS", "red", [ "v10.5", "h-39.3" ] ],
+    [ "rgb2:VSS", "rgb3:VSS", "red", [ "v10.5", "h-38.4" ] ],
+    [ "rgb3:VSS", "rgb4:VSS", "red", [ "v10.5", "h-37.5" ] ],
+    [ "rgb4:VSS", "rgb5:VSS", "red", [ "v10.5", "h-39.3" ] ],
+    [ "rgb21:VDD", "rgb22:VDD", "black", [ "h9.6", "v9.6", "h-18.3", "v-9.6" ] ],
+    [ "rgb23:VDD", "rgb22:VDD", "black", [ "h0", "v9.6", "h-28.8", "v-9.6" ] ],
+    [ "rgb23:VDD", "rgb24:VDD", "black", [ "h9.6", "v9.6", "h38.4", "v-9.6" ] ],
+    [ "rgb25:VDD", "rgb24:VDD", "black", [ "h9.6", "v9.6", "h-38.4", "v-9.6" ] ],
+    [ "rgb25:VDD", "rgb20:VDD", "black", [ "h164.1", "v19.2", "h-10.5" ] ],
+    [ "rgb20:VDD", "rgb19:VDD", "black", [ "h10.5", "v9.6", "h-41.1", "v-9.6" ] ],
+    [ "rgb18:VDD", "rgb19:VDD", "black", [ "h0", "v9.6", "h48", "v-9.6" ] ],
+    [ "rgb18:VDD", "rgb17:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb17:VDD", "rgb16:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb20:VDD", "rgb15:VDD", "black", [ "h9.6", "v28.8" ] ],
+    [ "rgb15:VDD", "rgb14:VDD", "black", [ "h20.1", "v9.6", "h18.3" ] ],
+    [ "rgb14:VDD", "rgb13:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb13:VDD", "rgb12:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb12:VDD", "rgb11:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb15:VDD", "rgb10:VDD", "black", [ "h164.1", "v28.8" ] ],
+    [ "rgb10:VDD", "rgb9:VDD", "black", [ "h9.6", "v9.6", "h-48" ] ],
+    [ "rgb9:VDD", "rgb8:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb8:VDD", "rgb7:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb7:VDD", "rgb6:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb10:VDD", "rgb5:VDD", "black", [ "h-171.9", "v28.8" ] ],
+    [ "rgb5:VDD", "rgb4:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb4:VDD", "rgb3:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb3:VDD", "rgb2:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [ "rgb2:VDD", "rgb1:VDD", "black", [ "h0", "v9.6", "h-38.4" ] ],
+    [
+      "pico:VSYS",
+      "rgb21:VSS",
+      "#8f4814",
+      [ "h19.51", "v-28.8", "h-115.82", "v19.2", "h-58.68" ]
+    ],
+    [ "rgb1:DIN", "pico:GP7", "green", [ "h39.2", "v9.6", "h27.2", "v-38.4" ] ],
+    [ "rgb24:DOUT", "rgb25:DIN", "green", [ "v10.5", "h-58.4" ] ],
+    [ "rgb25:VSS", "rgb24:VSS", "red", [ "v10.5", "h38.4" ] ],
+    [ "rgb25:VDD", "pico:GND.3", "black", [ "h164.1", "h9.6", "v115.2" ] ],
+    [ "pico:GND.8", "btn2:2.r", "black", [ "h0" ] ],
+    [ "pico:GND.1", "btn1:2.r", "black", [ "h0" ] ],
+    [ "pico:GP5", "btn1:1.l", "magenta", [ "h-38.4", "v-96", "h-67.2", "v-48" ] ],
+    [
+      "pico:GP6",
+      "btn2:1.l",
+      "magenta",
+      [ "h-19.2", "v-57.6", "h-9.6", "v-19.2", "h19.2", "v-48" ]
+    ],
+    [ "rgb26:COM", "r1:1", "black", [ "v0" ] ],
+    [ "r1:2", "pico:GND.4", "black", [ "h8.4", "v-48", "h21.6", "v-19.24" ] ],
+    [ "pico:GP13", "rgb26:R", "orange", [ "h-48", "v0.04", "h-9.6", "v96", "h-105.6" ] ],
+    [ "rgb26:B", "pico:GP12", "orange", [ "v9.6", "h20.8", "v-38.4" ] ],
+    [ "pico:GP11", "rgb26:G", "orange", [ "h-76.8", "v76.8", "h-67.2" ] ]
+  ],
+  "dependencies": {}
+}
